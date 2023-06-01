@@ -16,7 +16,16 @@
 <div class="container pt-3">
 <h5>csy lucky web project</h5>
 test1
+<<<<<<< HEAD
 🚧여러분 어서오세요🚧
+=======
+<<<<<<< HEAD
+
+test123
+=======
+kkkkkkkkkkkkkkkkk
+>>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
+>>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
 </div>
 </body>
 </html>
