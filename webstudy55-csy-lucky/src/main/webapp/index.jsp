@@ -19,11 +19,15 @@ test1
 
 123456
 <<<<<<< HEAD
+🚧여러분 어서오세요🚧
+=======
+<<<<<<< HEAD
 
 test123
 tsss22
 =======
 kkkkkkkkkkkkkkkkk
+>>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
 >>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
 </div>
 </body>
