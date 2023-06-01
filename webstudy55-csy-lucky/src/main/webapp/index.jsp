@@ -22,6 +22,7 @@ test1
 <<<<<<< HEAD
 
 test123
+tsss22
 =======
 kkkkkkkkkkkkkkkkk
 >>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
