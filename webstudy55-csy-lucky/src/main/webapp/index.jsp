@@ -31,7 +31,7 @@ test1
 <<<<<<< HEAD
 wddwdwdwdwqewfwddw
 test123dd
-tsss22wdw
+tsss22wdwqwdqw
 =======
 kkkkkkkkkkkkkkkkk
 >>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
