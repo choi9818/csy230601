@@ -23,7 +23,6 @@ test1
 <<<<<<< HEAD
 <<<<<<< HEADqwdqwd
 🚧여러분 어서오세요🚧
-=======dfcd
 =======
 qdwqwddqwdwqdqw
 123456
