@@ -25,7 +25,7 @@ test1
 🚧여러분 어서오세요🚧
 =======
 qdwqwddqwdwqdqw
-123456
+123456dwdw
 >>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
 <<<<<<< HEAD
 wddwdwdwdwqewfwddw
