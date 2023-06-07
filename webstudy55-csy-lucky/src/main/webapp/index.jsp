@@ -32,7 +32,12 @@ wddwdwdwdwqewfwddw
 test123dd
 tsss22wdwqwdqw
 =======
+<<<<<<< HEAD
 kkkkkkkkkkkkkkkkkdwdw
+=======
+kkkkkkkkkkkkkkkkk
+하이~
+>>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
 >>>>>>> branch 'main' of https://github.com/choi9818/csy230601.git
 </div>
 </body>
